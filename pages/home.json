@@ -1,0 +1,19 @@
+{
+  "name": "home",
+  "type": "page",
+  "url": "/home",
+  "params": {},
+  "variables": [
+    {
+      "name": "gameTableBooking",
+      "type": "open-api",
+      "id": "650adcd1ed8245a8e5e24040"
+    },
+    {
+      "name": "gameTableBookingOauth",
+      "type": "open-api",
+      "id": "650adcd1ed8245a8e5e24041"
+    }
+  ],
+  "children": []
+}
